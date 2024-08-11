@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=006B03&width=435&lines=Seja+bem-vindo+ao+meu+GitHub!" alt="Typing SVG" /></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
+## <picture><img src = "about-me.png" width = 30px></picture> **Sobre mim**
 
 - Amo técnologia e WWE.
 - Atualmente estudando segurança da informação.
