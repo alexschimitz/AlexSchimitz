@@ -7,7 +7,7 @@
 
 ## <picture><img src = "about-me.png" width = 30px></picture> **Sobre mim**
 
-- Amo técnologia e WWE.
+- Amo tecnologia e WWE.
 - Atualmente estudando segurança da informação.
 - Estou disponível para quaisquer oportunidades de emprego, visite meu portfólio!.
 - Portfólio [link](https://alexschimitz.github.io)
